@@ -1,0 +1,10 @@
+python-telegram-bot[rate-limiter]==20.3
+openai<1.0.0
+tiktoken>=0.3.0
+PyYAML==6.0
+pymongo==4.3.3
+python-dotenv==0.21.0
+pydub==0.25.1
+numpy==1.24.3
+aiofiles
+aiohttp
