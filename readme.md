@@ -1,7 +1,7 @@
 # 如何将黑塔加入您的telegram好友列
 本教程详细介绍如何使用OpenAI的fine-tuning功能来定制ChatGPT模型，以创建一个专用的Telegram机器人“黑塔”。我们将涵盖从收集特定语料开始的整个过程，接着是模型的微调，最后是通过Docker或云服务器部署机器人后端。
 
-部署效果（非盈利性）：[![Telegram](https://img.shields.io/badge/Telegram-Contact-blue?logo=telegram)](https://t.me/hertaaabot)
+
 ### 示例回复
 ![Interview](static/image.png) ![Chat](static/image2.png)
 ## 1. ChatGPT模型的微调
