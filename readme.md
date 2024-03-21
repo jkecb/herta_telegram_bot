@@ -20,7 +20,7 @@
 - **转换为JSONL**：
   参照 `finetune/openai_finetune.ipynb` Jupyter笔记本转换 `herta_corpus.txt` 为 JSONL 格式，或直接使用 `herta_corpus.jsonl` 文件。
 - **Read the Docs**：
-  [OpenAI Docs](https://platform.openai.com/docs/guides/fine-tuning)，不懂问它。
+  [OpenAI Docs](https://platform.openai.com/docs/guides/fine-tuning)。
 
 ### 更新配置文件
 
